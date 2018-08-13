@@ -3,5 +3,6 @@
 
 # Aurores:
 # Ryan Gosling
-# Andy Serkis
+# Patrick Stewart
 # Mahershala Ali
+# Kenneth Branagh
